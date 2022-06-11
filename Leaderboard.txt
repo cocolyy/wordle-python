@@ -1,0 +1,4 @@
+3: Rating was 5.40 Word was JOINT amount of chances you've spent was 3 the game mode was Normal
+4: Rating was 2.16 Word was PRIDE amount of chances you've spent was 4 the game mode was Normal
+2: Rating was 19.21 Word was LIGHT amount of chances you've spent was 3 the game mode was Hard
+1: Rating was 1.60 Word was LIGHT amount of chances you've spent was 5 the game mode was Hard
